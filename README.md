@@ -1,4 +1,4 @@
-# WannaBeYours
+# String Boy
 
 Brazilian programming student and full stack developer, my name is wby and i have 15 years old
 
