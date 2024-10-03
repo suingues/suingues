@@ -2,7 +2,7 @@
 <p>I'm from Brazil and i like to program websites, discord bots, and more</p>
 
 ## My Stack
-![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,express,rust,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,postgres,tailwind,prisma,discordjs)
+![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,express,rust,html,nestjs,react,bash,nextjs,nodejs,postgres,tailwind,prisma,discordjs)
 
 **I Mostly Code in TypeScript** 
 ```text
