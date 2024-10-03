@@ -1,8 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h2>Hello, I'm subscr (suingues)</h2>
+<p>I'm from Brazil and i like to program websites, discord bots, and more</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suingues&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="suingues" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suingues&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+## My Stack
+![](https://skillicons.dev/icons?i=git,docker,js,ts,cloudflare,css,express,rust,graphql,html,nestjs,react,apollo,bash,lua,nextjs,nodejs,postgres,tailwind,prisma,discordjs)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suingues&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**I Mostly Code in TypeScript** 
+```text
+TypeScript               13 repos            █████████████░░░░░░░░░░░░   51.72 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Java                      1 repo             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+The sky isn't the limit.
